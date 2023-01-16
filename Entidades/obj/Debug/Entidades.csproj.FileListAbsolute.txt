@@ -1,0 +1,6 @@
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.pdb

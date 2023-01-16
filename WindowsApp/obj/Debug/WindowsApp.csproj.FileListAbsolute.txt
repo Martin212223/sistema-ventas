@@ -1,0 +1,14 @@
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\bin\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\bin\Debug\Entidades.pdb
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb
