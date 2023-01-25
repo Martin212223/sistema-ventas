@@ -11,26 +11,30 @@ namespace Negocio
     {
         public static List<ClienteIndividuo> ListarClienteIndividuo()
         {
-            //TODO...
-            return null;
+            List<ClienteIndividuo> clientesIndividuos = new List<ClienteIndividuo>();
+
+            return clientesIndividuos;
         }
 
         public static ClienteIndividuo ListarClienteIndividuo(string cuit)
         {
-            //TODO...
-            return null;
+            ClienteIndividuo clienteIndividuo = new ClienteIndividuo();
+
+            return clienteIndividuo;
         } 
 
         public static List<Empresa> ListarClienteEmpresa()
         {
-            //TODO...
-            return null;
+            List<Empresa> empresas = new List<Empresa>();
+
+            return empresas;
         }
 
         public static Empresa ListarClienteEmpresa(string cuit)
         {
-            //TODO...
-            return null;
+            Empresa empresa = new Empresa();
+
+            return empresa;
         }
     }
 }

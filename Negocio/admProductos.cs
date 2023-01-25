@@ -11,26 +11,30 @@ namespace Negocio
     {
         public static List<Producto> Listar()
         {
-            //TODO...
-            return null;
+            List<Producto> productos = new List<Producto>();
+
+            return productos;
         }
 
         public static List<Producto> Listar(string categoria)
         {
-            //TODO...
-            return null;
+            List<Producto> productos = new List<Producto>();
+
+            return productos;
         }
 
         public static List<Producto> Listar(string categoria, string subCategoria)
         {
-            //TODO...
-            return null;
+            List<Producto> productos = new List<Producto>();
+
+            return productos;
         }
 
         public static Producto ListarDetalle(string nombre)
         {
-            //TODO...
-            return null;
+            Producto producto = new Producto();
+
+            return producto;
         }
     }
 }

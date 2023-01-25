@@ -4,3 +4,9 @@ C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Enti
 C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.dll
 C:\Users\Alternativa\Desktop\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alternativa\Desktop\Bootcamp C# trabajos ordenados 3er curso\1 - Programación Web NET Core\6 - Lab Sistema Ventas\Sistema Ventas\slnCursoNet\Entidades\obj\Debug\Entidades.pdb
